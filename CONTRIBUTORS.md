@@ -6,8 +6,6 @@
 
 - kauancvlcnt ([@kauancvlcnt](<https://github.com/kauancvlcnt>)) For The Original Code And The Idea.
 
-- NanashiTheNameless ([@NanashiTheNameless](<https://github.com/NanashiTheNameless>)) (This Fork)
-
 - shipdocs ([@shipdocs](<https://github.com/shipdocs>)) For Adding Automatic Version Detection And More Error Messages.
 
 - thecaticorn01 ([@thecaticorn01](<https://github.com/thecaticorn01>)) For Adding Initial ZorinOS 18 Support.
